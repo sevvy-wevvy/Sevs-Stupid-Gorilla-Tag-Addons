@@ -97,23 +97,3 @@ I accept donations over few platforms, below are where you can help support my p
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC.  
 > Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.  
 > This project may make calls to <b>sevvy-wevvy.com/mods/gorilla-tag/ssgta/</b> to log the amount of uses, general area data, and errors.
-
-<a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=plastic&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" alt="Depends On Several Bees (plastic)">
-</a>
-<br>
-<a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=flat&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" alt="Depends On Several Bees (flat)">
-</a>
-<br>
-<a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=flat-square&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" alt="Depends On Several Bees (flat-square)">
-</a>
-<br>
-<a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=for-the-badge&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" alt="Depends On Several Bees (for-the-badge)">
-</a>
-<br>
-<a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=social&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" alt="Depends On Several Bees (social)">
-</a>
