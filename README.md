@@ -43,12 +43,18 @@
 </p>
 
 <details>
-<summary align="center"><b>🛠 All Fetures 🛠</b></summary>
+<summary align="center"><b>📜 All Fetures 📜</b></summary>
 
 <p align="center">
-Want to help with this mod? <a href="https://github.com/sevvy-wevvy/Sevs-Stupid-Gorilla-Tag-Addons/pulls">Make A pull request!</a><br>
-Pull request allow for anyone to request a change to this code. Intern meaning that <b>YOU</b> can contribute to this project.<br>
-As long as it works, and doesnt vary off to far from the main idea its very likley it get accepted!
+  
+<details>
+<summary align="center"><b>NameTags</b></summary>
+
+<p align="center">
+Simple nametags above users heads.
+</p>
+</details>
+
 </p>
 </details>
 
