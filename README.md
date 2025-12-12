@@ -48,7 +48,7 @@
 <p align="center">
   
 <details>
-<summary align="center"><u>NameTags</u></summary>
+<summary align="center">NameTags</summary>
 
 <p align="center">
 Simple nametags above users heads.
