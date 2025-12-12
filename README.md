@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-<a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=for-the-badge&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" 
+<a href="https://github.com/sevvy-wevvy/Several-Bees" target="_blank" style="margin-left:10px;">
+  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=for-the-badge&label=Depends%20On&labelColor=grey" 
        alt="Depends On Several Bees" width="160" height="20">
 </a>
 </p>
