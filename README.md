@@ -55,6 +55,14 @@ Simple nametags above users heads.
 </p>
 </details>
 
+<details>
+<summary align="center">User Data</summary>
+
+<p align="center">
+Lets you choose a person, see their: Join date, Platform, Detectable Mods, Special Cosmetics, and more.
+</p>
+</details>
+
 </p>
 </details>
 
