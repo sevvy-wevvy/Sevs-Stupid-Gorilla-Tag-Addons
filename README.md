@@ -30,10 +30,12 @@
   <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
 
+<p align="center">
 <a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Depends%20On%20Several%20Bees-yellow?style=for-the-badge&logo=patreon&logoColor=white" 
+  <img src="https://img.shields.io/badge/Depends%20On-grey?style=for-the-badge&logo=patreon&logoColor=white&label=Several%20Bees&color=yellow" 
        alt="Depends On Several Bees" width="160" height="20">
 </a>
+</p>
 
 <details>
 <summary align="center"><b>🛠 All Fetures 🛠</b></summary>
