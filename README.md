@@ -25,7 +25,8 @@
 </p>
 
 <p align="center">
-  SSGAT is rideled with fun and simple mods such as NameTags, to mod checkers that tell you every mod someone has.<br> <br>
+  SSGAT is rideled with fun and simple mods such as NameTags, to mod checkers that tell you every mod someone has.<br>
+  Aswell i only work on this when i get random silly ideas that arnt full mods, so dont expect consistant updates.<br> <br>
   Do you like this mod? If so, please let me know!  
   <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
