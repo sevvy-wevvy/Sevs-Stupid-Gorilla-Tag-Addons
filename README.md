@@ -1,15 +1,15 @@
-<h1 align="center">🐝 Several Bees 🐝</h1>
+<h1 align="center">🔮 Sevs Stupid Gorilla Tag Addons (SSGTA) 🔮</h1>
 
 <p align="center">
-<b>A library for making easy UIs, installing and browsing mods in-game, and much more.</b>
+<b>Temp</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sevvy-wevvy/Several-Bees/releases/latest">
-    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Several-Bees/total?label=Downloads&style=for-the-badge" alt="Downloads">
+  <a href="https://github.com/sevvy-wevvy/Sevs-Stupid-Gorilla-Tag-Addons/releases/latest">
+    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Sevs-Stupid-Gorilla-Tag-Addons/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
-  <a href="https://github.com/sevvy-wevvy/Several-Bees/releases/latest">
-    <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Several-Bees?label=Version&style=for-the-badge&color=red" alt="Version">
+  <a href="https://github.com/sevvy-wevvy/Sevs-Stupid-Gorilla-Tag-Addons/releases/latest">
+    <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Sevs-Stupid-Gorilla-Tag-Addons?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
   <a href="https://sevvy-wevvy.com/discord">
     <img src="https://img.shields.io/discord/1398944180079689728?label=Discord&style=for-the-badge" alt="Discord">
@@ -31,15 +31,6 @@
 </p>
 
 <details>
-<summary align="center"><b>📄 Docs 📄</b></summary>
-
-<p align="center">
-Want to use this lib for your own projects, or maybe fork it to a different game?  
-<a href="https://github.com/sevvy-wevvy/Several-Bees/blob/main/docs.md">Check out the Docs!</a>
-</p>
-</details>
-
-<details>
 <summary align="center"><b>🛠 Pull Requests 🛠</b></summary>
 
 <p align="center">
@@ -54,7 +45,7 @@ As long as it works, and doesnt vary off to far from the main idea its very likl
 
 <p align="center">
   <small>
-    <b>Several Bees</b> is released under the  
+    <b>SSGTA</b> is released under the  
     <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPL-3.0 License</a>.  
     This means you’re free to use, modify, and share the code. As long as you:
   </small>
@@ -88,7 +79,7 @@ I accept donations over few platforms, below are where you can help support my p
 > [!NOTE]</h2>
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC.  
 > Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.  
-> This project may make calls to <b>sevvy-wevvy.com/mods/gorilla-tag/sb/</b> to log the amount of uses, general area data, games the mod has been used in.
+> This project may make calls to <b>sevvy-wevvy.com/mods/gorilla-tag/ssgta/</b> to log the amount of uses, general area data, and errors.
 
 ---
 <p align="center">
