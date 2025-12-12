@@ -1,7 +1,7 @@
 <h1 align="center">🔮 Sevs Stupid Gorilla Tag Addons (SSGTA) 🔮</h1>
 
 <p align="center">
-<b>A bunch of simple and stupid Gorilla Tag Addons.</b>
+<b>A bunch of fun and stupid Gorilla Tag Addons.</b>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  SSGAT is rideled with simple mods such as NameTags, to brand new gamemode such as Catch The Bees.<br> <br>
+  SSGAT is rideled with fun and simple mods such as NameTags, to brand new gamemode such as Catch The Bees.<br> <br>
   Do you like this mod? If so, please let me know!  
   <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
