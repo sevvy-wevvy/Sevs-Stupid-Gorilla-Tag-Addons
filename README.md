@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  SSGAT is rideled with fun and simple mods such as NameTags, to brand new gamemode such as Catch The Bees.<br> <br>
+  SSGAT is rideled with fun and simple mods such as NameTags, to mod checkers that tell you every mod someone has.<br> <br>
   Do you like this mod? If so, please let me know!  
   <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
