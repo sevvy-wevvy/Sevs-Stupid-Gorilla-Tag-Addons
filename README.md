@@ -80,10 +80,3 @@ I accept donations over few platforms, below are where you can help support my p
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC.  
 > Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.  
 > This project may make calls to <b>sevvy-wevvy.com/mods/gorilla-tag/ssgta/</b> to log the amount of uses, general area data, and errors.
-
----
-<p align="center">
-  <sub>
-    To enter test mode for the lib (such as unlocking UI access in versions without the UI enabled and enabling other debugging features), press <b>T + E + S</b> together.
-  </sub>
-</p>
