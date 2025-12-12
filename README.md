@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://sevvy-wevvy.com/patreon" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Depends%20On-grey?style=for-the-badge&logo=patreon&logoColor=white&label=Several%20Bees&color=yellow" 
+  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=for-the-badge&logo=patreon&logoColor=white&label=Depends%20On&labelColor=grey" 
        alt="Depends On Several Bees" width="160" height="20">
 </a>
 </p>
