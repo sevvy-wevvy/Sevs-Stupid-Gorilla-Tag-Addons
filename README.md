@@ -1,7 +1,7 @@
 <h1 align="center">🔮 Sevs Stupid Gorilla Tag Addons (SSGTA) 🔮</h1>
 
 <p align="center">
-<b>Temp</b>
+<b>A bunch of simple and stupid Gorilla Tag Addons.</b>
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  Several Bees is a library for easy, intuitive UIs, and much more.<br>
-  Do you like this lib? If so, please let me know!  
+  SSGAT is rideled with simple mods such as NameTags, to brand new gamemode such as Catch The Bees.<br> <br>
+  Do you like this mod? If so, please let me know!  
   <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
 
@@ -34,7 +34,7 @@
 <summary align="center"><b>🛠 Pull Requests 🛠</b></summary>
 
 <p align="center">
-Want to help with this lib? <a href="https://github.com/sevvy-wevvy/Several-Bees/pulls">Make A pull request!</a><br>
+Want to help with this mod? <a href="https://github.com/sevvy-wevvy/Sevs-Stupid-Gorilla-Tag-Addons/pulls">Make A pull request!</a><br>
 Pull request allow for anyone to request a change to this code. Intern meaning that <b>YOU</b> can contribute to this project.<br>
 As long as it works, and doesnt vary off to far from the main idea its very likley it get accepted!
 </p>
