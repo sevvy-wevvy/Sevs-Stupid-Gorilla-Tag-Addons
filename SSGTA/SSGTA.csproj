@@ -3,7 +3,7 @@
   <PropertyGroup>
 	  <TargetFramework>netstandard2.1</TargetFramework>
 	  <AssemblyName>SSGTA</AssemblyName>
-	  <RootNamespace>SevEssence</RootNamespace>
+	  <RootNamespace>SSGTA</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
