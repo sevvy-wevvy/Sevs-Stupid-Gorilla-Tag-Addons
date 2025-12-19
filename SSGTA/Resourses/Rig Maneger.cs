@@ -6,6 +6,7 @@ using UnityEngine;
 using PlayFab.ClientModels;
 using PlayFab;
 using System.Collections.Generic;
+using System;
 
 namespace SSGTA.Resourses
 {
@@ -109,6 +110,15 @@ namespace SSGTA.Resourses
 
         public static string GetPlatform(VRRig rig)
         {
+            string creationDateStr = CreationDate(rig);
+
+            if (DateTime.TryParse(creationDateStr, out DateTime creationDate))
+            {
+                // Aperently there was a glith causing accounts created after 2022 to show as on standalone
+                if (creationDate.Year <= 2022)
+                    return "UNKNOWN";
+            }
+
             string concatStringOfCosmeticsAllowed = rig.concatStringOfCosmeticsAllowed;
 
             if (concatStringOfCosmeticsAllowed.Contains("S. FIRST LOGIN"))

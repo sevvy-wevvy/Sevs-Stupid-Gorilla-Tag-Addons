@@ -22,7 +22,7 @@ using System.Reflection;
 
 namespace SSGTA
 {
-    [BepInPlugin("com.sev.gorillatag.SSGTA", "SSGTA", "1.1.2")]
+    [BepInPlugin("com.sev.gorillatag.SSGTA", "SSGTA", "1.1.3")]
     [BepInDependency("org.legoandmars.gorillatag.utilla", "1.5.0")]
     [BepInDependency("com.Sev.gorillatag.SeveralBees", "1.0.0")]
     public class Plugin : BaseUnityPlugin
