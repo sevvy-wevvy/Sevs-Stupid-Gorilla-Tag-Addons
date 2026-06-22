@@ -34,9 +34,9 @@
        alt="Depends On Several Bees" height="19">
 </a>
 
-<a href="https://github.com/developer9998/Utilla" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Utilla-ref?style=for-the-badge&label=Depends%20On&labelColor=grey" 
-       alt="Depends On Several Bees" height="19">
+<a href="https://github.com/sirkingbinx/Utilla" target="_blank" style="margin-left:10px;">
+  <img src="https://img.shields.io/badge/Utilla-black?style=for-the-badge&label=Depends%20On&labelColor=grey" 
+       alt="Depends On Utilla" height="19">
 </a>
 </p>
 
